@@ -7,7 +7,7 @@ This code is for our paper "Hybrid Convolutional and Attention Network for Hyper
 
 🔥 We hope HCANet is helpful for your work. Thanks a lot for your attention.🔥
 
-If you have any questions, please contact us. Email: 1529270914@qq.com, gaofeng@ouc.edu.cn
+If you have any questions, please contact us. Email: hushuai_ouc@qq.com, gaofeng@ouc.edu.cn
 
 
 
