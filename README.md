@@ -1,7 +1,7 @@
 ## 📖 Hybrid Convolutional and Attention Network for Hyperspectral Image Denoising (IEEE GRSL 2024)
 
-[![ARXIV](https://img.shields.io/badge/Paper-ARIXV-blue)]()
-[![IEEE](https://img.shields.io/badge/Paper-IEEE%20TGRS-blue)]()
+[![ARXIV](https://img.shields.io/badge/Paper-ARIXV-blue)](https://arxiv.org/abs/2403.10067)
+[![IEEE](https://img.shields.io/badge/Paper-IEEE%20GRSL-blue)](https://ieeexplore.ieee.org/document/10445289)
 
 This code is for our paper "Hybrid Convolutional and Attention Network for Hyperspectral Image Denoising (IEEE GRSL 2024)".
 
