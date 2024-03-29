@@ -71,7 +71,7 @@ class LayerNorm(nn.Module):
 
 
 ##########################################################################
-## Multi-Scale Feed-Forward Network (GDFN)
+## Multi-Scale Feed-Forward Network (MSFN)
 class FeedForward(nn.Module):
     def __init__(self, dim, ffn_expansion_factor, bias):
         super(FeedForward, self).__init__()
