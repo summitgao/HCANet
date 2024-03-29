@@ -12,5 +12,6 @@ If you have any questions, please contact us. Email: hushuai_ouc@qq.com, gaofeng
 
 
 
-
+## Traing code please reference：
+https://github.com/summitgao/MAFNet
 
